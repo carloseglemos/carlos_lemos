@@ -1,0 +1,33 @@
+body {background-color: grey;
+      font-family: Arial, Helvetica, sans-serif;
+      color: black;
+      font-size: 10;
+      line-height: 60px;
+    }
+h1 {color: black;
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 10;
+      line-height: 60px
+    }
+h2{color: black;
+      font-family: sans-serif;
+      font-size: 8;
+      line-height: 80px
+  }
+a:link{color:blue;
+  text-decoration: wavy;
+}
+#first {text-align:center;
+    background-color: #A6D8F0;
+    margin-top: -20px;
+}
+#second{text-align:center;
+  background-color:#F1CED9;
+  margin-top: -20px;
+  }
+
+#third{text-align:center;
+  background-color:#ECF0CE;
+  margin-top: -20px;
+  padding: 100px;
+}
